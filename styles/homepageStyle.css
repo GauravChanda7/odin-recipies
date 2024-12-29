@@ -1,0 +1,25 @@
+.heading {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+    color: rgb(36, 142, 146);
+}
+
+.logo {
+    height: auto;
+    width: 300px;
+}
+
+p strong em.intro-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    color: brown;
+}
+
+p a {
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(243, 188, 116);
+}
