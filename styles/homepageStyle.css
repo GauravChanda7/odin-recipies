@@ -12,14 +12,18 @@
 
 p strong em.intro-text {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 25px;
     font-style: normal;
     color: brown;
 }
 
-p a {
+.items {
+    display: inline-block;
+    padding: 0;
+    margin: 5px 100px 0 0;
+    border: 2px solid rgb(36, 142, 146);
     font-family: monospace;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 500;
     background-color: rgb(243, 188, 116);
 }
